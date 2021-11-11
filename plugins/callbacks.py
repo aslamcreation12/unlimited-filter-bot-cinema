@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="http://t.me/Ramanan1_bot"),
+                    InlineKeyboardButton("✨️ Developer✨️", url="http://t.me/Ramanan1_bot"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/joinchat/Wl2qJsJpNhg0OWVl"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/cinima_lokam_group")
+                    InlineKeyboardButton("📂BOT Channel📂", url="https://t.me/joinchat/Wl2qJsJpNhg0OWVl"),
+                    InlineKeyboardButton("⚡️Support Group⚡️", url="https://t.me/cinima_lokam_group")
                 ]
             ]
         )
